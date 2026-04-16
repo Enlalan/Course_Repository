@@ -15,6 +15,7 @@ pi = 355/133
 radius = 2.2
 area = pi*(radius**2)
 circumference = pi*(radius*2)
+print("pi =", pi)
 print("Area =", area)  # --> 12.918796
 print(circumference)  # --> 11.74426
 print("Circumference =", int(circumference))  # --> 11
@@ -38,4 +39,12 @@ print("Circumference =", int(circumference))
 print()
 # maka value assigned pd variable name (dlm memory) tidak akn brubah selagi
 # tidak re-assign atau tiada arahan kiraan baru
-print("test git")
+print()
+# kira area & cicumference bumi
+pi = 3.14159265
+radius = 6378
+area = pi*(radius**2)
+circumference = pi*(radius*2)
+print("Area bumi =", int(area), "KM persegi")
+print("Ukurlilit bumi =", int(circumference), "Km")
+print()

@@ -1,0 +1,5 @@
+name = input("What is your name>? ")
+print(name + ", such a nice name you have.")
+print()
+place = input("Where you are from? ")
+print("I see, you come from", place + ", such a beautiful place!")
