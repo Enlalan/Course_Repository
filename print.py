@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # learn print,variables,type
 
 
@@ -39,7 +38,3 @@ print("Circumference =", int(circumference))
 print()
 # maka value assigned pd variable name (dlm memory) tidak akn brubah selagi
 # tidak re-assign atau tiada arahan kiraan baru
-print()
-=======
-
->>>>>>> 0366254c81852b669a2f2b265feb3a51008ee4ed
