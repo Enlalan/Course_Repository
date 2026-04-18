@@ -50,5 +50,3 @@ print("Thanks")
 
 
 # if something is True, do this, otherwise do that
-
-# ------------- Branching

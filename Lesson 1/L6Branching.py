@@ -1,4 +1,28 @@
-# Branching in Python
+# --------------------Branching in Python
+# if <condition>:
+#   <code>          --will execute when conition above is True
+
+# if <condition1>:
+#   <code>          --will execute when condition1 is True
+# else:             --will execute when condition1 is False
+#   <code>
+
+# if <condition1>:
+#   <code>              --will execute when condition1 is True
+# elif <condition2>:    --will execute when condition1 is False
+#   <code>              --will execute when condition2 is True
+# else:                 --will execute when condition1 & condition2 is False
+#   <code>
+
+# if <condition1>:
+#   <code>              --will execute when condition1 is True
+# elif <condition2>:    --will execute when condition1 is False
+#   if <condition2a>:   --will execute when condition2 is True
+#       <code>          --will execute when condition2a is True
+# elif <condition3>:    --will execute when condition2 is False
+#   <code>
+# else:                 --will execute when all the conditions above is False
+#   <code>
 
 pset_time = 15
 sleep_time = 8

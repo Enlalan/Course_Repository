@@ -9,6 +9,7 @@ print()
 print()
 
 # input always return as str unless define as int
+
 # num1 = input("Type a number: ")
 # print(num1*5)  # if enter 2; return =22222
 # num2 = int(input("Type a number: "))
